@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp14FeatureSamples", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalExtensions", "FunctionalExtensions\FunctionalExtensions.csproj", "{B26949A7-4023-4E08-BE32-E4511526A3C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalExtensions.Tests", "FunctionalExtensions.Tests\FunctionalExtensions.Tests.csproj", "{651CCAE9-ACE1-4927-9F4B-8EE8BE7451C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{B26949A7-4023-4E08-BE32-E4511526A3C8}.Release|x64.Build.0 = Release|Any CPU
 		{B26949A7-4023-4E08-BE32-E4511526A3C8}.Release|x86.ActiveCfg = Release|Any CPU
 		{B26949A7-4023-4E08-BE32-E4511526A3C8}.Release|x86.Build.0 = Release|Any CPU
+		{651CCAE9-ACE1-4927-9F4B-8EE8BE7451C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651CCAE9-ACE1-4927-9F4B-8EE8BE7451C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651CCAE9-ACE1-4927-9F4B-8EE8BE7451C4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{651CCAE9-ACE1-4927-9F4B-8EE8BE7451C4}.Debug|x64.Build.0 = Debug|Any CPU
+		{651CCAE9-ACE1-4927-9F4B-8EE8BE7451C4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{651CCAE9-ACE1-4927-9F4B-8EE8BE7451C4}.Debug|x86.Build.0 = Debug|Any CPU
+		{651CCAE9-ACE1-4927-9F4B-8EE8BE7451C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651CCAE9-ACE1-4927-9F4B-8EE8BE7451C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{651CCAE9-ACE1-4927-9F4B-8EE8BE7451C4}.Release|x64.ActiveCfg = Release|Any CPU
+		{651CCAE9-ACE1-4927-9F4B-8EE8BE7451C4}.Release|x64.Build.0 = Release|Any CPU
+		{651CCAE9-ACE1-4927-9F4B-8EE8BE7451C4}.Release|x86.ActiveCfg = Release|Any CPU
+		{651CCAE9-ACE1-4927-9F4B-8EE8BE7451C4}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
