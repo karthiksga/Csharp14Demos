@@ -10,7 +10,8 @@ var demos = new IFeatureDemo[]
     new SimpleLambdaModifiersDemo(),
     new PartialMembersDemo(),
     new UserDefinedCompoundAssignmentDemo(),
-    new NullConditionalAssignmentDemo()
+    new NullConditionalAssignmentDemo(),
+    new ExtensionMembersDemoEx(),
 };
 
 Console.WriteLine("C# 14 Feature Samples");
